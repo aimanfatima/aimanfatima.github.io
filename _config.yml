@@ -138,7 +138,7 @@ keep_files:
 
 # Plug-ins
 plugins:
-  - jekyll/scholar
+  - jekyll-scholar
   - jekyll-diagrams
   - jekyll-email-protect
   - jekyll-feed
