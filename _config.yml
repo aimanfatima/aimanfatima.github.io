@@ -175,7 +175,7 @@ scholar:
   replace_strings: true
   join_strings: true
 
-  details_dir: bibliography
+  details_dir: _bibliography
   details_layout: bibtex.html
   details_link: Details
 
