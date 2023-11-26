@@ -175,7 +175,7 @@ scholar:
   replace_strings: true
   join_strings: true
 
-  details_dir: _bibliography
+  details_dir: bibliography
   details_layout: bibtex.html
   details_link: Details
 
@@ -184,7 +184,7 @@ scholar:
 # -----------------------------------------------------------------------------
 # Jekyll Diagrams
 # -----------------------------------------------------------------------------
-
+plugins_dir: [jekyll-scholar]
 jekyll-diagrams:
     # configuration, see https://github.com/zhustec/jekyll-diagrams.
     # feel free to comment out this section if not using jekyll diagrams.
